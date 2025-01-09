@@ -15,10 +15,6 @@
 <a href="https://tetralog.haipa.xyz/index.xml" target="_blank" title="Blog RSS">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://tetralog.haipa.xyz/index.xml" height="30" width="40" />
 </a>
-&nbsp;
-<a href="https://tetralog.haipa.xyz/index.xml" target="_blank" title="Blog RSS">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://tetralog.haipa.xyz/index.xml" height="30" width="40" />
-</a>
 </p>
 
 <p align="center">
