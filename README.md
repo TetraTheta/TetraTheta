@@ -6,4 +6,4 @@
 <a href="/https://tetralog.haipa.xyz/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://tetralog.haipa.xyz/index.xml" height="30" width="40" /></a>
 </p>
 
-<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=TetraTheta&theme=dark&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly&type=png" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=TetraTheta&theme=dark&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
