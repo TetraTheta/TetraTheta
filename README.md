@@ -8,12 +8,12 @@
 
 <h3>Connect with me:</h3>
 <p>
-<a href="https://tetralog.haipa.xyz" target="_blank" title="Blog">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/StaticSiteGenerators/hugo.svg" alt="https://tetralog.haipa.xyz" height="30" width="40" />
+<a href="https://tetralog.onrender.com" target="_blank" title="Blog">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/StaticSiteGenerators/hugo.svg" alt="https://tetralog.onrender.com" height="30" width="40" />
 </a>
 &nbsp;
-<a href="https://tetralog.haipa.xyz/index.xml" target="_blank" title="Blog RSS">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://tetralog.haipa.xyz/index.xml" height="30" width="40" />
+<a href="https://tetralog.onrender.com/index.xml" target="_blank" title="Blog RSS">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://tetralog.onrender.com/index.xml" height="30" width="40" />
 </a>
 </p>
 
