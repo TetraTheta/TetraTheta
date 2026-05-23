@@ -19,6 +19,5 @@
 
 <p align="center">
   <img alt="GitHub 통계" src="https://github-readme-stats-zeta-gray-46.vercel.app/api?username=TetraTheta&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&card_width=470&theme=github_dark&locale=kr" /><br />
-  <img alt="가장 많이 사용된 언어" src="https://github-readme-stats-zeta-gray-46.vercel.app/api/top-langs?username=TetraTheta&layout=compact&langs_count=20&card_width=470&theme=github_dark&locale=kr" /><br />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats-pi-five.vercel.app?user=TetraTheta&theme=dark&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly&card_width=470" />
+  <img alt="가장 많이 사용된 언어" src="https://github-readme-stats-zeta-gray-46.vercel.app/api/top-langs?username=TetraTheta&layout=compact&langs_count=20&card_width=470&theme=github_dark&locale=kr" />
 </p>
