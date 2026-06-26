@@ -15,8 +15,8 @@
   </a>
 </p>
 
-## GitHub Statistics
 <!-- GitHub 통계 -->
+## GitHub Statistics
 <p align="center">
   <img alt="GitHub 통계" src="https://github-readme-stats-zeta-gray-46.vercel.app/api?username=TetraTheta&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&card_width=470&theme=github_dark&locale=kr" /><br />
   <img alt="가장 많이 사용된 언어" src="https://github-readme-stats-zeta-gray-46.vercel.app/api/top-langs?username=TetraTheta&layout=compact&langs_count=20&card_width=470&theme=github_dark&locale=kr" />
@@ -24,20 +24,31 @@
 
 <!-- GitHub 고정된 Repo -->
 ## Pinned Repositories
+
 ### Android
-[![np-viewer](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=np-viewer&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/np-viewer)
+
+[![np-viewer](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=np-viewer&theme=github_dark&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/np-viewer)
+
 ### Desktop
-[![autohotkey-script](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=autohotkey-script&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/autohotkey-script)
-[![csharp](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=csharp&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/csharp)
-[![get-image-dimension](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=get-image-dimension&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/get-image-dimension)
+
+[![autohotkey-script](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=autohotkey-script&theme=github_dark&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/autohotkey-script)
+[![csharp](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=csharp&theme=github_dark&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/csharp)
+[![get-image-dimension](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=get-image-dimension&theme=github_dark&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/get-image-dimension)
+
 ### Web
-[![webfont-subset-glyph](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=webfont-subset-glyph&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/webfont-subset-glyph)
+
+[![webfont-subset-glyph](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=webfont-subset-glyph&theme=github_dark&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/webfont-subset-glyph)
+
 ### Game
+
 #### Garry's Mod
-[![gmod-addon](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=gmod-addon&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/gmod-addon)
-[![gmod-docs](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=gmod-docs&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/gmod-docs)
+
+[![gmod-addon](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=gmod-addon&theme=github_dark&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/gmod-addon)
+[![gmod-docs](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=gmod-docs&theme=github_dark&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/gmod-docs)
+
 #### Minecraft
-[![AutoRegionFarm](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=AutoRegionFarm&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/AutoRegionFarm)
-[![CompactResources](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=CompactResources&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/CompactResources)
-[![HardPlus](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=HardPlus&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/HardPlus)
-[![WorldTweaker](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=WorldTweaker&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/WorldTweaker)
+
+[![AutoRegionFarm](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=AutoRegionFarm&theme=github_dark&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/AutoRegionFarm)
+[![CompactResources](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=CompactResources&theme=github_dark&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/CompactResources)
+[![HardPlus](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=HardPlus&theme=github_dark&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/HardPlus)
+[![WorldTweaker](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=WorldTweaker&theme=github_dark&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/WorldTweaker)
