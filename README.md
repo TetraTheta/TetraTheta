@@ -35,7 +35,9 @@
 ### Game
 #### Garry's Mod
 [![gmod-addon](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=gmod-addon&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/gmod-addon)
+[![gmod-docs](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=gmod-docs&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/gmod-docs)
 #### Minecraft
 [![AutoRegionFarm](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=AutoRegionFarm&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/AutoRegionFarm)
 [![CompactResources](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=CompactResources&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/CompactResources)
 [![HardPlus](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=HardPlus&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/HardPlus)
+[![WorldTweaker](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=WorldTweaker&theme=github_dark&locale=kr&show_owner=true)](https://github.com/TetraTheta/WorldTweaker)
