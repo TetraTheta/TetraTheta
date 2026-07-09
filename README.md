@@ -34,6 +34,7 @@
 [![autohotkey-script](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=autohotkey-script&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/autohotkey-script)
 [![csharp](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=csharp&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/csharp)
 [![get-image-dimension](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=get-image-dimension&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/get-image-dimension)
+[![jpegview](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=jpegview&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/jpegview)
 
 ### Web
 
