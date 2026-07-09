@@ -27,29 +27,54 @@
 
 ### Android
 
-[![np-viewer](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=np-viewer&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/np-viewer)
+<a href="https://github.com/TetraTheta/np-viewer" target="_blank" title="np-viewer">
+  <img src="https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=np-viewer&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+</a>
 
 ### Desktop
 
-[![autohotkey-script](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=autohotkey-script&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/autohotkey-script)
-[![csharp](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=csharp&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/csharp)
-[![get-image-dimension](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=get-image-dimension&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/get-image-dimension)
-[![jpegview](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=jpegview&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/jpegview)
+<a href="https://github.com/TetraTheta/autohotkey-script" target="_blank" title="autohotkey-script">
+  <img src="https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=autohotkey-script&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+</a>
+<a href="https://github.com/TetraTheta/csharp" target="_blank" title="csharp">
+  <img src="https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=csharp&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+</a>
+<a href="https://github.com/TetraTheta/get-image-dimension" target="_blank" title="get-image-dimension">
+  <img src="https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=get-image-dimension&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+</a>
+<a href="https://github.com/TetraTheta/jpegview" target="_blank" title="jpegview">
+  <img src="https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=jpegview&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+</a>
 
 ### Web
 
-[![webfont-subset-glyph](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=webfont-subset-glyph&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/webfont-subset-glyph)
+<a href="https://github.com/TetraTheta/webfont-subset-glyph" target="_blank" title="webfont-subset-glyph">
+  <img src="https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=webfont-subset-glyph&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+</a>
 
 ### Game
 
 #### Garry's Mod
 
-[![gmod-addon](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=gmod-addon&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/gmod-addon)
-[![gmod-docs](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=gmod-docs&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/gmod-docs)
+<a href="https://github.com/TetraTheta/gmod-addon" target="_blank" title="gmod-addon">
+  <img src="https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=gmod-addon&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+</a>
+
+<a href="https://github.com/TetraTheta/gmod-docs" target="_blank" title="gmod-docs">
+  <img src="https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=gmod-docs&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+</a>
 
 #### Minecraft
 
-[![AutoRegionFarm](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=AutoRegionFarm&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/AutoRegionFarm)
-[![CompactResources](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=CompactResources&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/CompactResources)
-[![HardPlus](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=HardPlus&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/HardPlus)
-[![WorldTweaker](https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=WorldTweaker&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3)](https://github.com/TetraTheta/WorldTweaker)
+<a href="https://github.com/TetraTheta/AutoRegionFarm" target="_blank" title="AutoRegionFarm">
+  <img src="https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=AutoRegionFarm&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+</a>
+<a href="https://github.com/TetraTheta/CompactResources" target="_blank" title="CompactResources">
+  <img src="https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=CompactResources&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+</a>
+<a href="https://github.com/TetraTheta/HardPlus" target="_blank" title="HardPlus">
+  <img src="https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=HardPlus&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+</a>
+<a href="https://github.com/TetraTheta/WorldTweaker" target="_blank" title="WorldTweaker">
+  <img src="https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=WorldTweaker&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+</a>
