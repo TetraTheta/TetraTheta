@@ -36,8 +36,8 @@
 <a href="https://github.com/TetraTheta/autohotkey-script" target="_blank" title="autohotkey-script">
   <img src="https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=autohotkey-script&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
 </a>
-<a href="https://github.com/TetraTheta/csharp" target="_blank" title="csharp">
-  <img src="https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=csharp&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+<a href="https://github.com/TetraTheta/csharp-app" target="_blank" title="csharp-app">
+  <img src="https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=csharp-app&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
 </a>
 <a href="https://github.com/TetraTheta/get-image-dimension" target="_blank" title="get-image-dimension">
   <img src="https://github-readme-stats-zeta-gray-46.vercel.app/api/pin/?username=TetraTheta&repo=get-image-dimension&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
