@@ -72,23 +72,40 @@
 
 ### Web
 
+#### DokuWiki
+
 <a href="https://github.com/TetraTheta/dokuwiki-plugin" target="_blank" title="dokuwiki-plugin">
   <img src="https://github-readme-stats-tetratheta.vercel.app/api/pin/?username=TetraTheta&repo=dokuwiki-plugin&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
 </a>
-<a href="https://github.com/TetraTheta/terminal-color" target="_blank" title="terminal-color">
-  <img src="https://github-readme-stats-tetratheta.vercel.app/api/pin/?username=TetraTheta&repo=terminal-color&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+
+#### Hugo
+
+<a href="https://github.com/TetraTheta/hbtheme" target="_blank" title="hbtheme">
+  <img src="https://github-readme-stats-tetratheta.vercel.app/api/pin/?username=TetraTheta&repo=hbtheme&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
 </a>
+
+#### UserScript
+
 <a href="https://github.com/TetraTheta/userscript" target="_blank" title="userscript">
   <img src="https://github-readme-stats-tetratheta.vercel.app/api/pin/?username=TetraTheta&repo=userscript&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
 </a>
+
+#### Web App
+
+<a href="https://github.com/TetraTheta/terminal-color" target="_blank" title="terminal-color">
+  <img src="https://github-readme-stats-tetratheta.vercel.app/api/pin/?username=TetraTheta&repo=terminal-color&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+</a>
+<a href="https://github.com/TetraTheta/youtube-thumbnail" target="_blank" title="youtube-thumbnail">
+  <img src="https://github-readme-stats-tetratheta.vercel.app/api/pin/?username=TetraTheta&repo=youtube-thumbnail&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+</a>
+
+#### Web Font
+
 <a href="https://github.com/TetraTheta/webfont" target="_blank" title="webfont">
   <img src="https://github-readme-stats-tetratheta.vercel.app/api/pin/?username=TetraTheta&repo=webfont&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
 </a>
 <a href="https://github.com/TetraTheta/webfont-subset-glyph" target="_blank" title="webfont-subset-glyph">
   <img src="https://github-readme-stats-tetratheta.vercel.app/api/pin/?username=TetraTheta&repo=webfont-subset-glyph&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
-</a>
-<a href="https://github.com/TetraTheta/youtube-thumbnail" target="_blank" title="youtube-thumbnail">
-  <img src="https://github-readme-stats-tetratheta.vercel.app/api/pin/?username=TetraTheta&repo=youtube-thumbnail&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
 </a>
 
 ### Game
