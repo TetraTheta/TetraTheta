@@ -36,6 +36,9 @@
 <a href="https://github.com/TetraTheta/autohotkey-script" target="_blank" title="autohotkey-script">
   <img src="https://github-readme-stats-tetratheta.vercel.app/api/pin/?username=TetraTheta&repo=autohotkey-script&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
 </a>
+<a href="https://github.com/TetraTheta/clear-notification" target="_blank" title="clear-notification">
+  <img src="https://github-readme-stats-tetratheta.vercel.app/api/pin/?username=TetraTheta&repo=clear-notification&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+</a>
 <a href="https://github.com/TetraTheta/csharp-app" target="_blank" title="csharp-app">
   <img src="https://github-readme-stats-tetratheta.vercel.app/api/pin/?username=TetraTheta&repo=csharp-app&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
 </a>
