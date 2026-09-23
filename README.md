@@ -115,6 +115,9 @@
 
 #### Source Engine
 
+<a href="https://github.com/TetraTheta/source-analyzer" target="_blank" title="source-analyzer">
+  <img src="https://github-readme-stats-tetratheta.vercel.app/api/pin/?username=TetraTheta&repo=source-analyzer&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
+</a>
 <a href="https://github.com/TetraTheta/valvekiller" target="_blank" title="valvekiller">
   <img src="https://github-readme-stats-tetratheta.vercel.app/api/pin/?username=TetraTheta&repo=valvekiller&theme=github_dark&hide_border=true&locale=kr&show_owner=true&description_lines_count=3">
 </a>
